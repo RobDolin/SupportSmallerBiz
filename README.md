@@ -3,6 +3,9 @@
 ### Smaller businesses who ship
 * Chocolate: [Chocolopolis](https://www.chocolopolis.com/)
 * Coffee: [Seattle Coffee Works](https://www.seattlecoffeeworks.com/)
+* Hot Dogs: [Portillo's](https://www.portillos.com/index-shop-and-ship.html)
+* Hot Dogs: [Vienna Beef](https://www.tastesofchicago.com/category/Vienna_Beef)
+* Italian Beef: [Portillo's](https://www.portillos.com/index-shop-and-ship.html)
 * Pizza: [Lout Malnatis](https://www.tastesofchicago.com/category/Lou_Malnatis_Pizza)
 
 ### Smaller businesses offering services via video conference
@@ -12,6 +15,7 @@
 | Cuisine | Location | Restaurant |
 | --- | --- | --- |
 | Comfort food | Woodinville | [Heritage Restaurant](https://heritagewoodinville.com/) |
+| Italian Beef | Chicagoland | [Al's Beef](https://www.alsbeef.com/) |
 | Pizza | Seattle / Montlake | [Johnny Mo's](https://www.johnnymos.com/) |
 
 ### Additions / Corrections
