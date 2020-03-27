@@ -7,6 +7,7 @@
 * Hot Dogs: [Vienna Beef](https://www.tastesofchicago.com/category/Vienna_Beef)
 * Italian Beef: [Portillo's](https://www.portillos.com/index-shop-and-ship.html)
 * Pizza: [Lout Malnatis](https://www.tastesofchicago.com/category/Lou_Malnatis_Pizza)
+* Toffee, Brittles, and other snacks: [Mama Monacelli's](https://mamamonacelli.com/)
 
 ### Smaller businesses offering services via video conference
 * Wills and Family Law: [Law Offices of Mackenzie Sorich](https://www.sorichlaw.com/)
