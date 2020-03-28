@@ -2,6 +2,7 @@
 
 ### Smaller businesses who ship
 * Chocolate: [Chocolopolis](https://www.chocolopolis.com/)
+* Coffee: [Dark Matter Coffee](https://www.darkmattercoffee.com/)
 * Coffee: [Seattle Coffee Works](https://www.seattlecoffeeworks.com/)
 * Hot Dogs: [Portillo's](https://www.portillos.com/index-shop-and-ship.html)
 * Hot Dogs: [Vienna Beef](https://www.tastesofchicago.com/category/Vienna_Beef)
