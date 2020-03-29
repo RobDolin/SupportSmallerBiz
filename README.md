@@ -19,6 +19,7 @@
 | Comfort food | Woodinville | [Heritage Restaurant](https://heritagewoodinville.com/) |
 | Italian Beef | Chicagoland | [Al's Beef](https://www.alsbeef.com/) |
 | Pizza | Seattle / Montlake | [Johnny Mo's](https://www.johnnymos.com/) |
+| Sushi | Seattle / Montlake | [Sushi Kappo Tamura](https://www.sushikappotamura.com/) |
 
 ### Additions / Corrections
 If you have a suggestion, please email to SupportSmallerBiz@wuxx.com or if familar with GitHub, please submit a pull request
